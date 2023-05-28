@@ -76,8 +76,9 @@ print("The Variance of arrival from feeder is %.3f "%var)
 print("The Standard deviation of arrival from feeder is %.3F "%SD)
 ```
 # Output : 
-![241126522-3dc98ab8-3d8c-4557-9b00-cbbed8367748](https://github.com/Shaik-sameer-AIML/Mean-and-Variance/assets/93427186/8a388ea9-afa7-4431-b1b5-fb7be2164b10)
 
+![241126482-1b7b6760-3791-46e0-8035-35a4f8e0e45a](https://github.com/Shaik-sameer-AIML/Mean-and-Variance/assets/93427186/2caad0e7-c96a-4db0-a9bc-4f74e9de5245)
+![241126522-3dc98ab8-3d8c-4557-9b00-cbbed8367748](https://github.com/Shaik-sameer-AIML/Mean-and-Variance/assets/93427186/8a388ea9-afa7-4431-b1b5-fb7be2164b10)
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
